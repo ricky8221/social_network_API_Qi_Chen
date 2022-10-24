@@ -1,5 +1,24 @@
 # Social Network API
 
+## Technology Used
+* JavaScript
+* Express
+* MongoDB
+* Mongooes
+* Moment
+
+## Setup/Installation
+* Clone the repo to local
+* npm install all the packages needed
+* node server.js to run the apps
+* using insomnia to modify the database
+
+## Known Bugs
+N/A
+
+## License
+MIT
+
 ## User Story
 * AS A social media startup
 * I WANT an API for my social network that uses a NoSQL database
@@ -16,4 +35,5 @@
 * WHEN I test API POST and DELETE routes in Insomnia
 * THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 
+GitHub URL: https://github.com/ricky8221/social_network_API_Qi_Chen
 ![](assets/image/screenshot.jpg)
